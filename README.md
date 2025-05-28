@@ -11,3 +11,7 @@ Diversity & Inclusion Hub is a fully responsive static HTML and CSS website desi
 
 Wireframes
 Before starting the project, a couple of basic wireframes were created to visualize the final product. Both mobile and desktop wireframes were developed.
+
+![wireframe for phone](assets/images/phone1.png)
+![wireframe for phone 2](assets/images/large-screen-1.png)
+![wireframe for large screen 2](assets/images/large-screen-2.png)
