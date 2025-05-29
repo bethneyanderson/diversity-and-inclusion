@@ -3,11 +3,12 @@
   text-transform: uppercase;
   font-family: 'merriweather sans', sans-serif;
   font-weight: bold;
+  font-size: 2rem;
 }
 
 nav {
   position: absolute;
-  background-color: #ffffff;
+  background-color: black;
   width: 100%;
   left: 0%;
   padding: 0 1rem;
@@ -16,6 +17,40 @@ nav {
   top: 100%;
 }
 
+h1,
+h2,
+h3 {
+  font-family: 'merriweather sans', sans-serif;
+  font-weight: bold;
+  color: deeppink;
+}
+
+.custom-button-outline {
+  border: 3px solid deeppink;
+  padding: 7px 25px;
+  color: deeppink;
+}
+
+.custom-button-outline:hover {
+  background-color: pink;
+  color: deeppink;
+}
+
+footer {
+  background-color: black;
+}
+
+.social-links i {
+  color: deeppink;
+  font-size: 1.9rem;
+  -webkit-transition: color 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out;
+}
+
+.social-links i:hover {
+  color: pink;
+}
 /* Hero section */
 #hero {
   height: 600px;
