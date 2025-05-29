@@ -17,6 +17,11 @@ nav {
   top: 100%;
 }
 
+/*Global styles */
+p {
+  font-family: 'open sans', sans-serif;
+}
+
 h1 {
   font-family: 'merriweather sans', sans-serif;
   color: deeppink;
@@ -41,6 +46,50 @@ h3 {
   min-height: 200px;
   padding-top: 40px;
   padding-left: 10px;
+}
+
+#about {
+  text-align: right;
+  margin: 40px 20px;
+  padding: 30px 40px;
+  background-color: #fae1e7; /* light pink */
+  border-radius: 16px;
+}
+
+#guide {
+  text-align: left;
+  margin: 100px 20px;
+  padding: 30px 40px;
+  background-color: #fae1e7; /* light pink */
+  border-radius: 16px;
+}
+
+#guide p {
+  font-family: 'open sans', sans-serif;
+}
+
+#circle-cover-bg {
+  background: url('../images/guide.png') no-repeat top center / cover;
+  height: 90vw;
+  width: 90vw;
+  margin-bottom: 20px;
+  /* Makes the square image into a circle */
+  border-radius: 50%;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+#contact {
+  background-color: #fae1e7; /* light pink */
+  border-radius: 16px;
+  padding: 30px 40px;
+  margin: 40px 20px;
+}
+
+#about h2,
+#about .welcome p {
+  justify-content: flex-end;
+  text-align: right;
 }
 
 #resources .card {
@@ -80,6 +129,7 @@ footer {
   -webkit-transition: color 0.3s ease-in-out;
   -o-transition: color 0.3s ease-in-out;
   transition: color 0.3s ease-in-out;
+  justify-content: space-around;
 }
 
 .social-links i:hover {

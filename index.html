@@ -8,6 +8,9 @@
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:wght@300&family=Macondo&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Zen+Dots&display=swap"
       rel="stylesheet" />
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:wght@300&family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
     <title>Diversity and Inclusion Hub</title>
     <!-- Favicon -->
     <link
@@ -76,19 +79,19 @@
           </p>
         </div>
       </section>
-
+<!--About section-->
       <section>
         <div id="about" class="container section">
          
         <h2>About us</h2>
-        <p>Welcome to the Diversity & Inclusion Hub—where representation, equity, and community thrive. Our mission is to create a space that celebrates diversity, fosters inclusion, and drives meaningful change across workplaces, communities, and beyond.
+        <span class="welcome"></span><p>Welcome to the Diversity & Inclusion Hub—where representation, equity, and community thrive. Our mission is to create a space that celebrates diversity, fosters inclusion, and drives meaningful change across workplaces, communities, and beyond.
 
 Through educational resources, expert insights, and actionable strategies, we empower individuals and organizations to build environments where everyone feels valued, heard, and respected. Whether you're seeking guidance on inclusive hiring practices, cultural awareness training, or community support initiatives, our hub is here to inspire progress and connect changemakers.
 
-Together, we can shape a more inclusive future.</p>
+Together, we can shape a more inclusive future.</p></span>
 </div>
-<div class="container section">
-    <h3>Here's a guide on how to promote diversity</h3>
+<div id="guide" class="container section">
+   <span class="guide"><h3>Here's a guide on how to promote diversity</h3>
     <ul>
         <li>Educate yourself and others about different cultures and perspectives.</li>
         <li>Encourage open dialogue and active listening.</li>
@@ -96,8 +99,12 @@ Together, we can shape a more inclusive future.</p>
         <li>Support diverse voices and representation in media and leadership roles.</li>
         <li>Foster a culture of respect, empathy, and understanding.</li>
         <li>Engage in community outreach and support initiatives that promote diversity.</li>
-        </ul>
+        </ul></span>
+        
 </div>
+ <div id="benefits-image">
+            <div id="circle-cover-bg"></div>
+          </div>
       </section>
       
         <!--Resources Cards-->
@@ -123,7 +130,7 @@ Together, we can shape a more inclusive future.</p>
         <img src="assets/images/inclusive-hiring-practices.png" class="card-img-top"
             alt="#" />
         <div class="card-body">
-            <!-- bootstrap cards come as h5 by default, changed to h3 to fit project heading hierarchy -->
+            
             <a href="#"><h3 class="card-title">Inclusive Hiring Practices</h3></a>
             <p class="card-text">
                 Inclusive hiring practices ensure fairness and diversity in recruitment by eliminating bias, valuing diverse perspectives, and fostering equitable opportunities for all candidates.
@@ -179,7 +186,7 @@ Together, we can shape a more inclusive future.</p>
                             <textarea class="form-control" id="message" rows="3" placeholder="Your Message"
                                 required></textarea>
                         </div>
-                        <button type="submit" class="btn custom-button-outline">Submit</button>
+                        <a href="success.html"><button type="submit" class="btn custom-button-outline">Submit</button></a>
                     </form>
 </section>
     <script
