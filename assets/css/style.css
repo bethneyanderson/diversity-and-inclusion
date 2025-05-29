@@ -19,6 +19,8 @@ nav {
   display: none;
   top: 100%;
   background-color: rgb(252, 237, 208) !important;
+  font-family: 'open sans', sans-serif;
+  font-weight: bold;
 }
 
 .navbar {
@@ -58,6 +60,7 @@ h3 {
 
 #about {
   text-align: center;
+  justify-self: center;
   margin: 40px 20px;
   padding: 30px 40px;
   background-color: rgb(254, 247, 235); /* light pink */
@@ -66,6 +69,7 @@ h3 {
 
 #guide {
   text-align: left;
+  justify-self: center;
   margin: 100px 20px;
   padding: 30px 40px;
   background-color: rgb(254, 247, 235); /* light pink */
