@@ -3,7 +3,7 @@
   text-transform: uppercase;
   font-family: 'merriweather sans', sans-serif;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 nav {
@@ -17,18 +17,52 @@ nav {
   top: 100%;
 }
 
-h1,
+h1 {
+  font-family: 'merriweather sans', sans-serif;
+  color: deeppink;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 h2,
 h3 {
   font-family: 'merriweather sans', sans-serif;
-  font-weight: bold;
+
   color: deeppink;
+}
+
+#cover-text {
+  /* Final rgba sets opacity */
+  background-color: rgba(248, 229, 232, 0.8);
+  font-size: 130%;
+  position: absolute;
+  bottom: 30px;
+  width: 80%;
+  min-height: 200px;
+  padding-top: 40px;
+  padding-left: 10px;
+}
+
+#resources .card {
+  margin-bottom: 1.5rem;
+  border: none;
+  box-shadow: 0 2px 2px #3a3a3a;
+}
+
+#resources a {
+  text-decoration: none;
+  color: deeppink;
+}
+
+#resources a:hover {
+  color: pink;
 }
 
 .custom-button-outline {
   border: 3px solid deeppink;
   padding: 7px 25px;
   color: deeppink;
+  margin-bottom: 15px;
 }
 
 .custom-button-outline:hover {
@@ -37,7 +71,7 @@ h3 {
 }
 
 footer {
-  background-color: black;
+  background-color: #000 !important;
 }
 
 .social-links i {
@@ -68,6 +102,9 @@ footer {
     left: 0;
     width: 100%;
     z-index: 1000;
+  }
+  .navbar-brand {
+    font-size: 0.75rem;
   }
 
   /* Make all service cards the same height for consistency */
