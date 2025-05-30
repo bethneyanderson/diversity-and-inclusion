@@ -147,7 +147,7 @@ nav {
 }
 
 #resources h2 {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 /* Contact section */
@@ -176,7 +176,7 @@ nav {
 footer {
   display: block;
   min-height: 100px;
-  background-color: rgb(252, 237, 208) !important;
+  background-color: rgb(254, 247, 235);
   text-align: center;
 }
 
