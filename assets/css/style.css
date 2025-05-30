@@ -80,8 +80,9 @@ nav {
 }
 
 #guide {
-  text-align: left;
-  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   margin: 100px 20px;
   padding: 30px 40px;
   background-color: rgb(254, 247, 235); /* light pink */
@@ -107,7 +108,6 @@ nav {
   height: 90vw;
   width: 90vw;
   margin-bottom: 20px;
-  /* Makes the square image into a circle */
   border-radius: 50%;
   max-width: 300px;
   max-height: 300px;
