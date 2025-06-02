@@ -220,6 +220,16 @@ footer {
 /* Media queries */
 
 @media (max-width: 576px) {
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+  }
+  .navbar-brand {
+    font-size: 0.75rem;
+  }
   #hero {
     height: 100vh;
     min-height: 350px;
