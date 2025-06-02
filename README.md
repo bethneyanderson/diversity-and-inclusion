@@ -1,22 +1,27 @@
-#Portfolio Project 1 - Diversity and Inclusion
+# Portfolio Project 1 - Diversity and Inclusion
 
 This website was developed to meet the requirements of Code Institute’s first individual assessment project.
 
-The live link can be found here: [Diversity and Inclusion Hub](https://bethneyanderson.github.io/diversity-and-inclusion/)
+## The live link can be found here: [Diversity and Inclusion Hub](https://bethneyanderson.github.io/diversity-and-inclusion/)
 
-##Description
+## Description
+
 The Diversity & Inclusion Hub is a fully responsive HTML and CSS website created to inform and inspire individuals in cultivating inclusive environments and embracing diverse perspectives in both personal and professional settings.
 
-![responsive examples](assets/images/readme-images/responsive.png)
+## ![responsive examples](assets/images/readme-images/responsive.png)
 
-##Wireframes
+## Wireframes
+
 Before beginning the project, initial wireframes were designed to map out the final product. These included both mobile and desktop versions.
 
 ![wireframe for phone](assets/images/readme-images/phone1.png)
 ![wireframe for phone 2](assets/images/readme-images/large-screen-1.png)
 ![wireframe for large screen 2](assets/images/readme-images/large-screen-2.png)
 
-##How AI Was Used
+---
+
+## How AI Was Used
+
 Artificial Intelligence was instrumental in shaping this project. Here are some key ways AI contributed to its development:
 
 **Code Generation**
@@ -39,9 +44,9 @@ AI tools, such as GitHub Copilot, played a key role in both coding and content c
 
 AI tools, such as Lighthouse, were utilized to evaluate the website’s accessibility features. These tools assessed how well the site accommodates users with disabilities and provided recommendations to enhance user experience, ensuring a more inclusive and user-friendly design.
 
-By integrating AI, the project successfully enhanced efficiency, fostered creativity, and improved accessibility, resulting in a more streamlined and inclusive development process.
+## By integrating AI, the project successfully enhanced efficiency, fostered creativity, and improved accessibility, resulting in a more streamlined and inclusive development process.
 
-##Features
+## Features
 
 The website includes several features, which are detailed below.
 
@@ -91,28 +96,34 @@ The footer is consistent throughout all pages and includes social media links fo
 
 This section of the website acknowledges users for their submission and provides a seamless way to return to the home page with a simple button click. Additionally, the navigation bar links at the top ensure easy access back to the homepage for continued browsing.
 
-![succes page](assets/images/readme-images/success.png)
+## ![succes page](assets/images/readme-images/success.png)
 
-**Features left to Implement**
+## Features left to Implement
 
-Search Functionality
+**Search Functionality**
 
 Adding a search bar would allow users to quickly find specific information on the website, enhancing user experience by making navigation more efficient.
 
-Multilingual Support
+**Multilingual Support**
 
 Offering content in multiple languages enhances accessibility and inclusivity, ensuring diverse communities can engage with important information regardless of their primary language. This approach fosters equitable access and empowers non-English speakers to participate fully in discussions on diversity and inclusion.
 
-Testimoials
+**Testimoials**
 
-To boost credibility and engagement by showcasing authentic voices, fostering trust, and reinforcing the importance of inclusivity.
+## To boost credibility and engagement by showcasing authentic voices, fostering trust, and reinforcing the importance of inclusivity.
 
-**Technologies Used**
-HTML
-CSS
-Bootstrap
+### Technologies Used
 
-**Testing**
+- HTML
+- CSS
+- Bootstrap
+
+---
+
+## Testing
+
+**W3C Markup Validation**
+**W3C CSS Validation**
 
 All HTML and CSS code underwent validation using the W3C Markup Validation Service and W3C CSS Validation Service, respectively.
 
@@ -123,9 +134,9 @@ All HTML and CSS code underwent validation using the W3C Markup Validation Servi
 
 Lighthouse was used to test the performance, accessibility, best practices, and SEO of the website. The results are as follows:
 
-![lighthouse](assets/images/readme-images/lighthouse.png)
+## ![lighthouse](assets/images/readme-images/lighthouse.png)
 
-**Deployment**
+## Deployment
 
 This project was deployed on GitHub. Below are the steps followed to deploy the website:
 
@@ -135,21 +146,20 @@ From the source section drop-down menu, select the main branch.
 Once the main branch has been selected, hit the save button.
 Finally, when the page is refreshed, a detailed ribbon display will indicate the successful deployment.
 
-**Credits**
+---
 
-Content
+## Credits
+
+**Content**
 
 The content for this website was created by
 
-Copilot
+- Copilot
+- https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/
+- https://www.cipd.org/uk/knowledge/guides/inclusive-employers/
+- https://www.communityfoundation.org.uk/about-us/diversity-equity-and-inclusion/
 
-https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/
-
-https://www.cipd.org/uk/knowledge/guides/inclusive-employers/
-
-https://www.communityfoundation.org.uk/about-us/diversity-equity-and-inclusion/
-
-Media
+**Media**
 
 All images used in this project were generated using DALL-E and are used with permission.
 Icons used in the navigation bar and footer are from Font Awesome.
