@@ -44,7 +44,7 @@ AI tools, such as GitHub Copilot, played a key role in both coding and content c
 
 AI tools, such as Lighthouse, were utilized to evaluate the website’s accessibility features. These tools assessed how well the site accommodates users with disabilities and provided recommendations to enhance user experience, ensuring a more inclusive and user-friendly design.
 
-## By integrating AI, the project successfully enhanced efficiency, fostered creativity, and improved accessibility, resulting in a more streamlined and inclusive development process.
+By integrating AI, the project successfully enhanced efficiency, fostered creativity, and improved accessibility, resulting in a more streamlined and inclusive development process.
 
 ## Features
 
@@ -110,7 +110,7 @@ Offering content in multiple languages enhances accessibility and inclusivity, e
 
 - **Testimoials**
 
-## To boost credibility and engagement by showcasing authentic voices, fostering trust, and reinforcing the importance of inclusivity.
+To boost credibility and engagement by showcasing authentic voices, fostering trust, and reinforcing the importance of inclusivity.
 
 ### Technologies Used
 
@@ -122,8 +122,8 @@ Offering content in multiple languages enhances accessibility and inclusivity, e
 
 ## Testing
 
-**W3C Markup Validation**
-**W3C CSS Validation**
+- **W3C Markup Validation**
+- **W3C CSS Validation**
 
 All HTML and CSS code underwent validation using the W3C Markup Validation Service and W3C CSS Validation Service, respectively.
 
@@ -150,7 +150,7 @@ Finally, when the page is refreshed, a detailed ribbon display will indicate the
 
 ## Credits
 
-- **Content**
+**Content**
 
 The content for this website was created by
 
@@ -159,7 +159,7 @@ The content for this website was created by
 - https://www.cipd.org/uk/knowledge/guides/inclusive-employers/
 - https://www.communityfoundation.org.uk/about-us/diversity-equity-and-inclusion/
 
-- **Media**
+**Media**
 
 All images used in this project were generated using DALL-E and are used with permission.
 Icons used in the navigation bar and footer are from Font Awesome.
