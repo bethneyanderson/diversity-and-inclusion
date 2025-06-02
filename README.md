@@ -7,6 +7,8 @@ The live link can be found here: [Diversity and Inclusion Hub](https://bethneyan
 ##Description
 The Diversity & Inclusion Hub is a fully responsive HTML and CSS website created to inform and inspire individuals in cultivating inclusive environments and embracing diverse perspectives in both personal and professional settings.
 
+![responsive examples](assets/images/readme-images/responsive.png)
+
 ##Wireframes
 Before beginning the project, initial wireframes were designed to map out the final product. These included both mobile and desktop versions.
 
@@ -108,3 +110,13 @@ To boost credibility and engagement by showcasing authentic voices, fostering tr
 **Technologies Used**
 HTML
 CSS
+Bootstrap
+
+Testing
+
+All HTML and CSS code underwent validation using the W3C Markup Validation Service and W3C CSS Validation Service, respectively.
+
+Validation Results:
+HTML Validation: Two errors were detected, but all elements are correctly nested and closed, maintaining a well-structured document.
+
+CSS Validation: (If applicable, include results)
