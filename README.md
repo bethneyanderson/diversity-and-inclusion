@@ -10,9 +10,9 @@ The Diversity & Inclusion Hub is a fully responsive HTML and CSS website created
 ##Wireframes
 Before beginning the project, initial wireframes were designed to map out the final product. These included both mobile and desktop versions.
 
-![wireframe for phone](assets/images/phone1.png)
-![wireframe for phone 2](assets/images/large-screen-1.png)
-![wireframe for large screen 2](assets/images/large-screen-2.png)
+![wireframe for phone](assets/images/readme-images/phone1.png)
+![wireframe for phone 2](assets/images/readme-images/large-screen-1.png)
+![wireframe for large screen 2](assets/images/readme-images/large-screen-2.png)
 
 ##How AI Was Used
 Artificial Intelligence was instrumental in shaping this project. Here are some key ways AI contributed to its development:
@@ -49,7 +49,7 @@ The website includes several features, which are detailed below.
 
 The website incorporates shades of pink, a color often associated with compassion, warmth, and inclusivity. Pink evokes a sense of openness and connection, reinforcing the website’s commitment to fostering diversity and belonging. To ensure readability and a clean design, pink is complemented by neutral tones, creating a balanced and visually engaging experience. The color palette is consistently applied across all website elements, including backgrounds, text, buttons, and links, maintaining a cohesive and welcoming aesthetic.
 
-![colour palette](<assets/images/AdobeColor-My%20Color%20Theme%20(3).jpeg>)
+![colour palette](<assets/images/readme-images/AdobeColor-My%20Color%20Theme%20(3).jpeg>)
 
 **Iamgery**
 
@@ -58,3 +58,53 @@ A diverse range of images is used to enrich the content and create a more engagi
 **Navigation**
 
 The navigation bar, positioned at the top of the page, offers links to all key sections of the website, allowing users to easily move between pages. It highlights the active page with an underline for clear navigation. Designed to be fully responsive, the navigation bar adapts to different screen sizes, ensuring a seamless browsing experience across all devices.
+
+![navigation bar](assets/images/readme-images/navbar.png)
+
+**Hero Image**
+
+The hero image serves as the website’s visual centerpiece, instantly engaging visitors. It features a striking image paired with a compelling headline that conveys the site’s purpose. This section is crafted to make a strong first impression and offer a concise preview of the site's content and message.
+
+![hero image](assets/images/readme-images/heroimage.png)
+
+**Information Sections**
+
+The website highlights diversity and inclusion through well-structured sections that provide meaningful insights on fostering an inclusive environment. Each section is carefully organized with clear headings, engaging narratives, and impactful visuals, ensuring accessibility and representation for all users.
+
+![info sections](assets/images/readme-images/infosections.png)
+
+**Contact Form**
+
+The contact form provides users with a direct way to reach the website administrators. It features fields for name, email, and message, ensuring seamless communication. Built-in validation guarantees that all required information is correctly entered before submission, enhancing usability and reliability.
+
+![contact info](assets/images/readme-images/contact-form.png)
+
+**Footer**
+
+The footer is consistent throughout all pages and includes social media links for Instagram, Facebook, X.
+
+![footer](assets/images/readme-images/footer.png)
+
+**Success Page**
+
+This section of the website acknowledges users for their submission and provides a seamless way to return to the home page with a simple button click. Additionally, the navigation bar links at the top ensure easy access back to the homepage for continued browsing.
+
+![succes page](assets/images/readme-images/success.png)
+
+**Features left to Implement**
+
+Search Functionality
+
+Adding a search bar would allow users to quickly find specific information on the website, enhancing user experience by making navigation more efficient.
+
+Multilingual Support
+
+Offering content in multiple languages enhances accessibility and inclusivity, ensuring diverse communities can engage with important information regardless of their primary language. This approach fosters equitable access and empowers non-English speakers to participate fully in discussions on diversity and inclusion.
+
+Testimoials
+
+To boost credibility and engagement by showcasing authentic voices, fostering trust, and reinforcing the importance of inclusivity.
+
+**Technologies Used**
+HTML
+CSS
