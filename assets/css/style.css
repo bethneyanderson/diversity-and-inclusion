@@ -220,6 +220,15 @@ footer {
 /* Media queries */
 
 @media (max-width: 576px) {
+  #hero {
+    height: 100vh;
+    min-height: 350px;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+  }
   #cover-text {
     font-size: 100%;
     width: 95%;
