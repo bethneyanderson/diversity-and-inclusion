@@ -112,11 +112,44 @@ HTML
 CSS
 Bootstrap
 
-Testing
+**Testing**
 
 All HTML and CSS code underwent validation using the W3C Markup Validation Service and W3C CSS Validation Service, respectively.
 
-Validation Results:
-HTML Validation: Two errors were detected, but all elements are correctly nested and closed, maintaining a well-structured document.
+![html check](assets/images/readme-images/html-check.png)
+![css check](assets/images/readme-images/css-check.png)
 
-CSS Validation: (If applicable, include results)
+**Lighthouse Testing**
+
+Lighthouse was used to test the performance, accessibility, best practices, and SEO of the website. The results are as follows:
+
+![lighthouse](assets/images/readme-images/lighthouse.png)
+
+**Deployment**
+
+This project was deployed on GitHub. Below are the steps followed to deploy the website:
+
+In the GitHub repository, navigate to the Settings tab.
+Scroll down until GitHub Pages is found.
+From the source section drop-down menu, select the main branch.
+Once the main branch has been selected, hit the save button.
+Finally, when the page is refreshed, a detailed ribbon display will indicate the successful deployment.
+
+**Credits**
+
+Content
+
+The content for this website was created by
+
+Copilot
+
+https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/
+
+https://www.cipd.org/uk/knowledge/guides/inclusive-employers/
+
+https://www.communityfoundation.org.uk/about-us/diversity-equity-and-inclusion/
+
+Media
+
+All images used in this project were generated using DALL-E and are used with permission.
+Icons used in the navigation bar and footer are from Font Awesome.
